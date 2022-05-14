@@ -1,4 +1,4 @@
-package com.ldap.service;
+package com.kulsin.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

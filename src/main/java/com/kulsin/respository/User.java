@@ -1,4 +1,4 @@
-package com.ldap.respository;
+package com.kulsin.respository;
 
 import org.springframework.ldap.odm.annotations.Attribute;
 import org.springframework.ldap.odm.annotations.Entry;

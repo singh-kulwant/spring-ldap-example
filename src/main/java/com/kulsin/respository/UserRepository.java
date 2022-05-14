@@ -1,4 +1,4 @@
-package com.ldap.respository;
+package com.kulsin.respository;
 
 import org.springframework.data.ldap.repository.LdapRepository;
 import org.springframework.stereotype.Repository;

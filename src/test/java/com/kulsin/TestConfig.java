@@ -1,6 +1,6 @@
-package com;
+package com.kulsin;
 
-import com.ldap.service.LdapClient;
+import com.kulsin.service.LdapClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

@@ -1,6 +1,6 @@
-package com;
+package com.kulsin;
 
-import com.ldap.service.LdapClient;
+import com.kulsin.service.LdapClient;
 import org.hamcrest.Matchers;
 import org.junit.Assert;
 import org.junit.Test;

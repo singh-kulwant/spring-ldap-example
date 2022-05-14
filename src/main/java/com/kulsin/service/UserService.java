@@ -1,7 +1,7 @@
-package com.ldap.service;
+package com.kulsin.service;
 
-import com.ldap.respository.User;
-import com.ldap.respository.UserRepository;
+import com.kulsin.respository.User;
+import com.kulsin.respository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ldap.support.LdapUtils;
 

@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.4</version>
+		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com</groupId>
-	<artifactId>spring-ldap</artifactId>
+	<groupId>com.kulsin</groupId>
+	<artifactId>spring-ldap-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-com</name>
-	<description>Spring LDAP</description>
+	<name>Spring LDAP Example</name>
+	<description>Spring LDAP Example</description>
 	<properties>
 		<java.version>16</java.version>
 	</properties>
